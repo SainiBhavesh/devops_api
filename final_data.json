@@ -1,0 +1,178 @@
+[
+    {
+        "company": "AirAsia",
+        "flightNo": "I5 1427, I5 749",
+        "depTime": "19:25",
+        "source": "Pune",
+        "duration": "06 h",
+        "type": "1 stop via Bengaluru",
+        "arrivalTime": "01:25+ 1 DAY",
+        "destination": "New Delhi",
+        "rate": "₹ 6,961"
+    },
+    {
+        "company": "Go First",
+        "flightNo": "G8 2541",
+        "depTime": "19:40",
+        "source": "Pune",
+        "duration": "02 h 10 m",
+        "type": "Non stop",
+        "arrivalTime": "21:50",
+        "destination": "New Delhi",
+        "rate": "₹ 7,201"
+    },
+    {
+        "company": "Go First",
+        "flightNo": "G8 172",
+        "depTime": "20:55",
+        "source": "Pune",
+        "duration": "02 h 15 m",
+        "type": "Non stop",
+        "arrivalTime": "23:10",
+        "destination": "New Delhi",
+        "rate": "₹ 7,201"
+    },
+    {
+        "company": "AirAsia",
+        "flightNo": "I5 975, I5 1528",
+        "depTime": "23:10",
+        "source": "Pune",
+        "duration": "09 h 25 m",
+        "type": "1 stop via Bengaluru",
+        "arrivalTime": "08:35+ 1 DAY",
+        "destination": "New Delhi",
+        "rate": "₹ 7,288"
+    },
+    {
+        "company": "Vistara",
+        "flightNo": "UK 998",
+        "depTime": "16:55",
+        "source": "Pune",
+        "duration": "02 h 15 m",
+        "type": "Non stop",
+        "arrivalTime": "19:10",
+        "destination": "New Delhi",
+        "rate": "₹ 7,621"
+    },
+    {
+        "company": "AirAsia",
+        "flightNo": "I5 738",
+        "depTime": "01:40",
+        "source": "Pune",
+        "duration": "02 h 15 m",
+        "type": "Non stop",
+        "arrivalTime": "03:55",
+        "destination": "New Delhi",
+        "rate": "₹ 7,623"
+    },
+    {
+        "company": "Air India",
+        "flightNo": "AI 858",
+        "depTime": "15:55",
+        "source": "Pune",
+        "duration": "02 h 15 m",
+        "type": "Non stop",
+        "arrivalTime": "18:10",
+        "destination": "New Delhi",
+        "rate": "₹ 7,623"
+    },
+    {
+        "company": "AirAsia",
+        "flightNo": "I5 732",
+        "depTime": "17:50",
+        "source": "Pune",
+        "duration": "02 h 15 m",
+        "type": "Non stop",
+        "arrivalTime": "20:05",
+        "destination": "New Delhi",
+        "rate": "₹ 7,623"
+    },
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 5203",
+        "depTime": "23:45",
+        "source": "Pune",
+        "duration": "02 h 20 m",
+        "type": "Non stop",
+        "arrivalTime": "02:05+ 1 DAY",
+        "destination": "New Delhi",
+        "rate": "₹ 7,623"
+    },
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 6617",
+        "depTime": "02:00",
+        "source": "Pune",
+        "duration": "02 h 20 m",
+        "type": "Non stop",
+        "arrivalTime": "04:20",
+        "destination": "New Delhi",
+        "rate": "₹ 7,938"
+    },
+    {
+        "company": "AirAsia",
+        "flightNo": "I5 611, I5 1731",
+        "depTime": "05:35",
+        "source": "Pune",
+        "duration": "15 h 10 m",
+        "type": "1 stop via Bengaluru",
+        "arrivalTime": "20:45",
+        "destination": "New Delhi",
+        "rate": "₹ 8,359"
+    },
+    {
+        "company": "SpiceJet",
+        "flightNo": "SG 1078, SG 194",
+        "depTime": "20:00",
+        "source": "Pune",
+        "duration": "11 h 50 m",
+        "type": "1 stop via Ahmedabad",
+        "arrivalTime": "07:50+ 1 DAY",
+        "destination": "New Delhi",
+        "rate": "₹ 8,425"
+    },
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 2369",
+        "depTime": "21:20",
+        "source": "Pune",
+        "duration": "02 h 20 m",
+        "type": "Non stop",
+        "arrivalTime": "23:40",
+        "destination": "New Delhi",
+        "rate": "₹ 8,463"
+    },
+    {
+        "company": "SpiceJet",
+        "flightNo": "SG 1083, SG 194",
+        "depTime": "14:30",
+        "source": "Pune",
+        "duration": "17 h 20 m",
+        "type": "1 stop via Ahmedabad",
+        "arrivalTime": "07:50+ 1 DAY",
+        "destination": "New Delhi",
+        "rate": "₹ 8,635"
+    },
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 2481, 6E 6602",
+        "depTime": "14:25",
+        "source": "Pune",
+        "duration": "04 h 35 m",
+        "type": "1 stop via Nagpur",
+        "arrivalTime": "19:00",
+        "destination": "New Delhi",
+        "rate": "₹ 8,726"
+    },
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 2419",
+        "depTime": "05:05",
+        "source": "Pune",
+        "duration": "02 h 15 m",
+        "type": "Non stop",
+        "arrivalTime": "07:20",
+        "destination": "New Delhi",
+        "rate": "₹ 8,778"
+    }
+]
